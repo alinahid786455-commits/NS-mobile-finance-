@@ -1,0 +1,17 @@
+{
+  "short_name": "NS Mobile",
+  "name": "NS Mobile Finance - Loan & EMI",
+  "description": "Smart EMI and loan repayments, PhonePe 1-tap UPI payment, yearly statement download and loan management by NS Mobile Infotech.",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/lucide:smartphone.svg?color=%2310b981",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/?tab=customer-app",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}

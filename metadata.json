@@ -1,0 +1,10 @@
+{
+  "name": "Remix TriviaPulse AI: Dynamic Host Game Show",
+  "description": "An electric trivia game show featuring an AI host with dynamic user-chosen personalities, voice conversations via Gemini Live, vocal banter with Gemini Flash TTS, and Google Search grounded trivia questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
